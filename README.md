@@ -14,7 +14,7 @@ This is a starting point project where I built a single component.
 <ul>
   <li>Donwload the .zip</li>
   <li>Extract on your device</li>
-  <li>Open the 'index.html' with your browser</li>
+  <li>Open the 'index.html' file with your browser</li>
 </ul>
 
 
