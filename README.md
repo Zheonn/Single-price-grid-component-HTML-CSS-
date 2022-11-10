@@ -10,3 +10,11 @@ This is a starting point project where I built a single component.
   <li>Although small, this project presents some nice layout challenges. I used this opportunity to practice Flexbox and CSS Grid.</li>
 </ul>
 
+<h2>To view the project:</h2>
+<ul>
+  <li>Donwload the .zip</li>
+  <li>Extract on your device</li>
+  <li>Open the 'index.html' with your browser</li>
+</ul>
+
+
